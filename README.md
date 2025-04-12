@@ -1,6 +1,6 @@
 # 🐝 Bee Colony Optimization for Timetable Scheduling
 
-![Banner](assets/bee-colony-banner.png)
+![Banner](assets/banner.png)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Swarm Intelligence](https://img.shields.io/badge/Swarm_Intelligence-Bee_Colony-yellow?style=flat)
